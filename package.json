@@ -1,0 +1,29 @@
+{
+  "name": "vta-cli",
+  "version": "0.0.1",
+  "description": "快速生成Vue+Ts+Element后台系统基础架构的脚手架工具",
+  "bin": {
+    "vta": "bin/init.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "./bin",
+    "./src"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.0",
+    "ora": "^4.0.4"
+  }
+}

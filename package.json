@@ -2,6 +2,15 @@
   "name": "vta-cli",
   "version": "0.1.0",
   "description": "快速生成Vue+Ts+Element后台系统基础架构的脚手架工具",
+  "keywords": [
+    "vue cli",
+    "vue ts",
+    "vue ts cli",
+    "vue typescript",
+    "vue admin",
+    "vue typescript admin",
+    "vue element-ui"
+  ],
   "bin": {
     "vta": "bin/init.js"
   },
@@ -13,8 +22,8 @@
     "./bin",
     "./src"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "刘顺利 <1563940776@qq.com>",
+  "license": "MIT",
   "engines": {
     "node": ">=8.9"
   },

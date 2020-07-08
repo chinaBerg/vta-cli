@@ -19,8 +19,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "./bin",
-    "./src"
+    "bin",
+    "src"
   ],
   "author": "刘顺利 <1563940776@qq.com>",
   "license": "MIT",

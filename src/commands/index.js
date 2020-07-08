@@ -1,3 +1,1 @@
-#!/usr/bin/env node
-
-exports.CreateCommand = require('./create');
+exports.CreateCommand = require('./CreateCommand');

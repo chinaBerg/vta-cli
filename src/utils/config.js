@@ -5,8 +5,8 @@ exports.InquirerConfig = {
     name: 'recover',
     message: '当前文件夹已存在，请选择操作：',
     choices: [
-      { name: '覆盖', value: 'cover' },
       { name: '创建一个新的文件夹', value: 'newFolder' },
+      { name: '覆盖', value: 'cover' },
       { name: '退出', value: 'exit' },
     ]
   }],
@@ -17,3 +17,6 @@ exports.InquirerConfig = {
     message: '请输入新的项目名称: '
   }]
 }
+
+// 远程Repo地址
+exports.RepoPath = 'github:chinaBerg/vue-typescript-admin'

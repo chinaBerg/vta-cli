@@ -1,6 +1,6 @@
 {
   "name": "vta-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "快速生成Vue+Ts+Element后台系统基础架构的脚手架工具",
   "keywords": [
     "vue cli",
